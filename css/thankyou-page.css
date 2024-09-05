@@ -1,0 +1,36 @@
+                                        /***********For Thankyou Page***********/
+
+#thankyou-page-section{
+    background-color:rgb(37, 179, 255);
+}
+                                                    /* Header */
+#h1-of-thankyou-page{
+    color: rgb(37, 179, 255);
+    text-align: center;
+}
+#computer-science-text-of-thankyou-page:link {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: none;
+}
+#computer-science-text-of-thankyou-page:visited {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: none;
+}
+#computer-science-text-of-thankyou-page:hover {
+    color: rgb(37, 179, 255); 
+    background-color: transparent;
+    text-decoration: underline;
+}
+#computer-science-text-of-thankyou-page:active {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: underline;
+}
+                                                    /* Section */
+div{
+    color: #FFFFFF;
+    font-size: larger;
+    text-align: center;
+}

@@ -1,0 +1,77 @@
+                                        /***********For Index Page***********/
+
+.index-page-section-footer{
+    background-color:rgb(37, 179, 255);
+}
+                                            /* header of Index Page */
+#h1-of-index-page{
+    color: rgb(37, 179, 255);
+    text-align: center;
+}
+#computer-science-text-of-index-page:link {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: none;
+}
+#computer-science-text-of-index-page:visited {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: none;
+}
+#computer-science-text-of-index-page:hover {
+    color: rgb(37, 179, 255); 
+    background-color: transparent;
+    text-decoration: underline;
+}
+#computer-science-text-of-index-page:active {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: underline;
+}
+                                        /* Section of Index Page */
+#content-of-website{
+    color: #FFFFFF;
+    text-align: center;
+}
+.links-of-index-page:link {
+    color: #FFFFFF;
+    background-color: transparent;
+    text-decoration: none;
+}
+.links-of-index-page:visited {
+    color: #FFFFFF;
+    background-color: transparent;
+    text-decoration: none;
+}
+.links-of-index-page:hover {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.links-of-index-page:active {
+    color: #FFFFFF;
+    background-color: transparent;
+    text-decoration: underline;
+}
+#content-of-website-text{
+    text-align: center;
+}
+                                        /* Footer of Index page */
+form{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+}
+fieldset{
+    border: 2px solid #FFFFFF;
+}
+legend{
+    text-align: center;
+    background-color: #FFFFFF;
+    color: rgb(37, 179, 255);
+}
+.buttons-of-form-on-index-page{
+    width: 146px;
+    background-color: #FFFFFF;
+    color: rgb(37, 179, 255);
+}

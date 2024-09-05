@@ -1,0 +1,62 @@
+                                        /***********For Educational Page***********/
+
+#education-information-page-section{
+    background-color:#ffff00;
+}
+                                                        /* Header */
+#h1-of-educational-information-page{
+    color: #ffff00;
+}
+#computer-science-text-of-educational-information-page:link {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: none;
+}
+#computer-science-text-of-educational-information-page:visited {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: none;
+}
+#computer-science-text-of-educational-information-page:hover {
+    color: #ffff00; 
+    background-color: transparent;
+    text-decoration: underline;
+}
+#computer-science-text-of-educational-information-page:active {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: underline;
+}
+                                                        /* Section */
+#educational-information{
+    text-align: center;
+}
+.tables{
+    border: 1px solid black;
+}
+.links-of-educational-information-page:link {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.links-of-educational-information-page:visited {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.links-of-educational-information-page:hover {
+    color: rgb(128, 128, 128); 
+    background-color: transparent;
+    text-decoration: underline;
+}
+.links-of-educational-information-page:active {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: underline;
+}
+hr{
+    border-color: #000000;
+    border-width: 5px;
+    border-style: solid none none;     /*  border-style: none;  border-top-style: dashed;   */
+    width: 20%;
+}

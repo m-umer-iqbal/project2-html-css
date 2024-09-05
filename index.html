@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>Umer's Personal Website</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+    <header>
+        <table>
+            <tr>
+                <td class="gif-on-every-page-in-table-cell"><a href="index.html"><img id="gif-on-every-page" src="gif/46207-programmer-1.gif" alt="programmer gif"></a></td>
+                <td class="umer-iqbal-on-every-page"><h1 id="h1-of-index-page">Umer Iqbal</h1><p><em>(I am a <strong><a id="computer-science-text-of-index-page" href="https://en.wikipedia.org/wiki/Computer_science" target="_blank">Computer Science</a></strong> student)</em></p></td>
+            </tr>
+        </table>
+    </header>
+    <section class="index-page-section-footer">
+        <article>
+            <br>
+            <h2 id="content-of-website"><ins>Content of Website</ins></h2>
+            <div id="content-of-website-text">
+                <br>
+                <a class="links-of-index-page" href="personal-information-page.html">My Personal Information</a><br>
+                <a class="links-of-index-page" href="education-information-page.html">My Educational Information</a><br>
+                <a class="links-of-index-page" href="skills-page.html">My Skills</a><br>
+            </div>
+            <br>
+            <br>
+                <hr>
+            <br>
+        </article>
+    </section>
+    <footer class="index-page-section-footer">
+        <form action="thankyou-page.html">
+            <fieldset>
+                <legend><strong>Contact Me</strong></legend>
+                <p><strong>Your Name: </strong><input type="text" name="name"  maxlength="50" autocomplete="off" required></p>
+                <p><strong>Gender: </strong>
+                    <input type="radio" name="gender" value="male" required>Male
+                    <input type="radio" name="gender" value="female" required>Female
+                </p>
+                <p><strong>Your Age: </strong><input type="date" name="date" max="2017-12-31" min="1950-12-31" required></p>
+                <p><strong>Purpose of Contact:</strong> 
+                    <select name="Purpose_of_Contact" required>
+                        <option value="">--Select a Purpose--</option>
+                        <option value="educational_purpose">Educational Purpose</option>
+                        <option value="personal_purpose">Personal Purpose</option>
+                        <option value="other">Other</option>
+                    </select>
+                </p>
+                <p><strong>Your Message:</strong> <br>
+                    <textarea name="Message" cols="45" rows="10"></textarea>
+                    <br>
+                    <input class="buttons-of-form-on-index-page" type="reset">
+                    <input class="buttons-of-form-on-index-page" type="submit">
+                </p>
+            </fieldset>
+        </form>
+        <br>
+        <hr>
+        <br>
+    </footer>
+</body>
+</html>

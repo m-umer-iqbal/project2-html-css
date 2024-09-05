@@ -1,0 +1,20 @@
+                                        /***********For All Pages***********/
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: #FFFFFF;
+}
+.umer-iqbal-on-every-page{
+    text-align: center;
+}
+.gif-on-every-page-in-table-cell{
+    width: 80%; /* controls a cell size of table with 60% gif and remaining percent is other cell */
+}
+
+hr{
+    border-color: #FFFFFF;
+    border-width: 5px;
+    border-style: solid none none;  /*  border-style: none;  border-top-style: dashed;   */
+    width: 20%;
+}

@@ -1,0 +1,44 @@
+                                    /***********For Skills Page***********/
+#skills-page-section{
+    background-color:#696969;
+    
+}
+                                                /* Header */
+#h1-of-skills-page{
+    color: #696969;
+    text-align: center;
+}
+#computer-science-text-of-skills-page:link {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: none;
+}
+#computer-science-text-of-skills-page:visited {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: none;
+}
+#computer-science-text-of-skills-page:hover {
+    color: #696969; 
+    background-color: transparent;
+    text-decoration: underline;
+}
+#computer-science-text-of-skills-page:active {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: underline;
+}
+                                                /* Section */
+#my-skills{
+    color: #FFFFFF;
+    text-align: center;
+}
+#skills-table{
+    margin-left: 2%;
+    color: #FFFFFF; 
+}
+.cntr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

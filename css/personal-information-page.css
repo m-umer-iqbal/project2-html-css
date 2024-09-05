@@ -1,0 +1,67 @@
+                                        /***********For Personal Page***********/
+
+#personal-information-page-section{
+    background-color: hsl(0, 100%, 74%);
+}
+                                                    /* Header */
+
+#h1-of-personal-information-page{
+    color:  hsl(0, 100%, 74%);
+    text-align: center;
+}
+#computer-science-text-of-personal-information-page:link {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: none;
+}
+#computer-science-text-of-personal-information-page:visited {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: none;
+}
+#computer-science-text-of-personal-information-page:hover {
+    color:  hsl(0, 100%, 74%); 
+    background-color: transparent;
+    text-decoration: underline;
+}
+#computer-science-text-of-personal-information-page:active {
+    color: #000000;
+    background-color: transparent;
+    text-decoration: underline;
+}
+                                                /* Section */
+#personal-information{
+    text-align: center;
+}
+#left-side-table-cell-enclosing-ul{
+    width: 57%;
+}
+#left-side-ul{
+    list-style-type:square;
+}
+#personal-information, #left-side-ul, #right-side-ul, .li-text{
+    color: #FFFFFF;
+}
+.links-of-personal-information-page:link {
+    color: #FFFFFF;
+    background-color: transparent;
+    text-decoration: none;
+}
+.links-of-personal-information-page:visited {
+    color: #FFFFFF;
+    background-color: transparent;
+    text-decoration: none;
+}
+.links-of-personal-information-page:hover {
+    color: #000000; 
+    background-color: transparent;
+    text-decoration: underline;
+}
+.links-of-personal-information-page:active {
+    color: #FFFFFF;
+    background-color: transparent;
+    text-decoration: underline;
+}
+#black-text{
+    color: #000000;
+}
